@@ -1,0 +1,16 @@
+h1,
+h6,
+h2,
+p{
+  font: verdana;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h6 {
+  color: Aquamarine;
+  font-size: 16px;
+}
