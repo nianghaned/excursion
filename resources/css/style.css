@@ -1,8 +1,12 @@
+* {
+  background-color: black;
+}
+
 h1,
 h6,
 h2,
 p{
-  font: verdana;
+  font: Verdana;
   text-align: center;
 }
 
@@ -22,10 +26,6 @@ h1 {
 
 }
 
-* {
-  background-color: black;
-}
-
 p {
   font-size: 21px;
   color: gray;
@@ -34,8 +34,4 @@ p {
 h2 {
   font-weight: 300;
   font-size: 42px;
-}
-
-span.centerImage {
-     text-align: center;
 }
